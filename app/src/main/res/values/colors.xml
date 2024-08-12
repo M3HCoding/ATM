@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color_transparent">#00000000</color>
+    <color name="color_app_background">#FFFFFF</color>
+    <color name="color_white_text">#FFFFFF</color>
+    <color name="color_black_text_title">#000000</color>
+    <color name="color_text_description">#222222</color>
+    <color name="color_button">#FFFFFF</color>
+    <color name="color_divider_one">#616161</color>
+    <color name="color_divider_two">#D6D1D1</color>
+    <color name="color_gray">#808080</color>
+    <color name="color_rounded_background">#093042</color>
+    <color name="color_light_gray_background">#F0F0F0</color>
+    <color name="color_prayer_timer_card_background">#FFFFFF</color>
+    <color name="color_reader_verse_action_hover">?colorControlHighlight</color>
+    <color name="color_ic_icon">#FF000000</color>
+    <color name="color_ic_icon_tint">#A5A5A5</color>
+
+    <color name="color_count_start_tasbih">#FFFFFF</color>
+    <color name="color_count_end_tasbih">#00000000</color>
+
+    <color name="color_text_one">#FF000000</color>
+    <color name="color_text_two">#FF333333</color>
+    <color name="color_text_three">#FF777777</color>
+    <color name="color_text_four">#FFAAAAAA</color>
+
+
+    <!-- Red Colors -->
+    <color name="color_red_light">#FFCDD2</color>
+    <color name="color_red">#F44336</color>
+    <color name="color_red_dark">#D32F2F</color>
+
+    <!-- Pink Colors -->
+    <color name="color_pink_light">#F8BBD0</color>
+    <color name="color_pink">#E91E63</color>
+    <color name="color_pink_dark">#C2185B</color>
+
+    <!-- Purple Colors -->
+    <color name="color_purple_light">#E1BEE7</color>
+    <color name="color_purple">#9C27B0</color>
+    <color name="color_purple_dark">#7B1FA2</color>
+
+    <!-- Deep Purple Colors -->
+    <color name="color_deep_purple_light">#D1C4E9</color>
+    <color name="color_deep_purple">#673AB7</color>
+    <color name="color_deep_purple_dark">#512DA8</color>
+
+    <!-- Indigo Colors -->
+    <color name="color_indigo_light">#C5CAE9</color>
+    <color name="color_indigo">#3F51B5</color>
+    <color name="color_indigo_dark">#303F9F</color>
+
+    <!-- Blue Colors -->
+    <color name="color_blue_light">#BBDEFB</color>
+    <color name="color_blue">#2196F3</color>
+    <color name="color_blue_dark">#1976D2</color>
+
+    <!-- Light Blue Colors -->
+    <color name="color_light_blue_light">#B3E5FC</color>
+    <color name="color_light_blue">#03A9F4</color>
+    <color name="color_light_blue_dark">#0288D1</color>
+</resources>
